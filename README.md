@@ -6,19 +6,21 @@ A simple and intuitive web app built with React.
 
 - [React Web App](#react-web-app)
   - [Table of Contents](#table-of-contents)
-  - [Feactures](#feactures)
+  - [Features](#features)
   - [Technologies](#technologies)
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [Support](#support)
   - [License](#license)
 
-## Feactures
+## Features
+
 - User authentication and authorization
 - user management
 - Dashboard
 
 ## Technologies
+
 - JavaScript
 - Tailwind
 - Context
