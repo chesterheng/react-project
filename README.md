@@ -21,8 +21,7 @@ A simple and intuitive web app built with React.
 ## Technologies
 - JavaScript
 - Tailwind
-- React
-- Redux toolkit
+- Context
 - Axios
 
 ## Getting Started
